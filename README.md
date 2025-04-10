@@ -36,7 +36,7 @@ Foodies is a modern, full-stack food delivery application built using **Spring B
 
 ### 1. Clone the repository
 
-```bash
+
 git clone https://github.com/your-username/foodies-backend.git
 cd foodies-backend
 
@@ -67,17 +67,56 @@ GET	    /api/order/admin	                    Admin: All orders
 PUT	    /api/order/status/{id}	              Admin: Update order status
 
 
-![image alt](image_url)
+
+Register api
+![register api](https://github.com/user-attachments/assets/85489c25-06c7-4070-af1c-63f3562c9fb7)
 
 
 
-![image alt](https://github.com/RupaliBhore/Foodies-Backend/blob/f20fbee7bc2e103b262cf781c613d85200cf6b07/register%20api.png)
-![register api](https://github.com/user-attachments/assets/4be9ce88-3cc1-4e2e-97ba-198d5b6ea884)
+login api
+![login api](https://github.com/user-attachments/assets/de3360ab-e41d-410a-899b-d4410d6d6ff5)
+
+order create api
+![create order](https://github.com/user-attachments/assets/a641a29b-fe56-4804-94ce-8cd1bdee05db)
+
+
+get all food api
+![get all food](https://github.com/user-attachments/assets/4aaf8399-558a-4435-aa60-5a2a177ee450)
+
+
+get all orders api
+![get all orders](https://github.com/user-attachments/assets/c672568a-a3c6-49d3-b061-d4cbd82f9452)
+
+
+
+delete food
+![delete food](https://github.com/user-attachments/assets/839ae0c1-6521-4aef-865a-c4ba6a0b7816)
+
+get single food
+![get single food](https://github.com/user-attachments/assets/701ccdb8-a85f-45be-9029-54cbe865d970)
+
+
+
+add to cart
+![add to cart](https://github.com/user-attachments/assets/f1e52284-f8f7-4c98-b7dc-05abc6fe089b)
+
+
+
+remove from cart
+![remove from cart](https://github.com/user-attachments/assets/300da923-9bd0-493a-9bc7-94c6e1e77fd9)
 
 
 
 
-![login api](https://github.com/user-attachments/assets/e389b567-7167-4aae-a3b0-7496f52e3c78)
+uapdate order status
+![upadte order status](https://github.com/user-attachments/assets/4fac1fa7-18a1-4a55-85b7-0d5311a1188d)
+
+
+
+
+verify payment
+![verify payment](https://github.com/user-attachments/assets/220f2073-4619-4e59-aa63-e0dea1f3bb92)
+
 
 
 
