@@ -41,30 +41,29 @@ git clone https://github.com/your-username/foodies-backend.git
 cd foodies-backend
 
 
-1)register yourself
-2)login after login you get token using this token you can access api
-3)add food
-4)get single food
-5)
+
+
+
 
 
 
 🔐 API Endpoints
-Method	           Endpoint	                                                                 Description
-POST	            http://localhost:8080/api/register                                       User Registration
+Method	                                                     Endpoint	                                                                 
+POST	                                                     http://localhost:8080/api/register                                       
 
 
-POST	   /api/auth/login	                    User Login (JWT)
+POST	                                                    http://localhost:8080/api/login)                  
 
-GET	    /api/food/all	                        Fetch all food items
+GET	                                                      http://localhost:8080/api/foods	 
 
-POST	  /api/order/create	                    Place new order
 
-GET	    /api/order/user	                      Fetch user orders
+POST	                                                   http://localhost:8080/api/orders/create                
 
-GET	    /api/order/admin	                    Admin: All orders
+GET	                                                     http://localhost:8080/api/orders                     
 
-PUT	    /api/order/status/{id}	              Admin: Update order status
+POST	                                                  http://localhost:8080/api/cart                   
+
+POST	                                                    http://localhost:8080/api/orders/verify             
 
 
 
