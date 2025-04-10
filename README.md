@@ -71,7 +71,7 @@ PUT	    /api/order/status/{id}	              Admin: Update order status
 
 
 
-![image alt](image_url)
+![image alt](https://github.com/RupaliBhore/Foodies-Backend/blob/f20fbee7bc2e103b262cf781c613d85200cf6b07/register%20api.png)
 
 
 🖼️ Admin Dashboard
