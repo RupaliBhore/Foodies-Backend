@@ -41,11 +41,18 @@ git clone https://github.com/your-username/foodies-backend.git
 cd foodies-backend
 
 
+1)register yourself
+2)login after login you get token using this token you can access api
+3)add food
+4)get single food
+5)
+
 
 
 🔐 API Endpoints
-Method	 Endpoint	                            Description
-POST	    /api/auth/register	                User Registration
+Method	           Endpoint	                                                                 Description
+POST	            http://localhost:8080/api/register                                       User Registration
+
 
 POST	   /api/auth/login	                    User Login (JWT)
 
