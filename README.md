@@ -67,7 +67,11 @@ GET	    /api/order/admin	                    Admin: All orders
 PUT	    /api/order/status/{id}	              Admin: Update order status
 
 
+![image alt](image_url)
 
+
+
+![image alt](image_url)
 
 
 🖼️ Admin Dashboard
